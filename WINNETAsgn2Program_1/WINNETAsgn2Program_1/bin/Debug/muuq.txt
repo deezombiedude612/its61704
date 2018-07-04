@@ -1,0 +1,21 @@
+20
+1:D:Which one is the Capital of Republic of Korea?:Pyongyang:Gangnam District:Busan:Seoul
+3:A:Who is the current Prime Minister of Republic of Korea?:leader1.jpg:leader2.jpg:leader3.jpg:leader4.jpg
+3:C:Which one is NOT Korean drama?:drama1.jpg:drama2.jpg:drama3.jpg:drama4.jpg
+2:D:What is this?:gangnam.jpg:It is a dance.:He is Psy.:He is from South Korea.:All of the above.
+1:A:Which continent is Mozambique locatedin?:Africa:Asia:Europe:Antartica
+1:B:What is the capital of Mozambique?:Kuala Lumpur:Maputo:Washington DC:Canberra
+2:C:Which modern weapon is on the Mozambique National Flag?:MozambiqueFlag.png:M416:SCAR-L:AK-47:Groza
+3:D:What is the national food of Mozambique?:nasilemak.jpg:omurice.jpg:vietpho.jpg:ncima.jpg
+1:B:Which one is the capital of Oman?:Doha:Muscat:Riyadh:Jeddah
+2:D:What is the item below called?:khanjar.jpg:Dagger:Sayf:J-sword:Khanjar
+3:A:Which one is the ruler of the Sultanate of Oman?:Question3(option1).jpg:Question3(option2).jpg:Question3(option3).jpg:Question3(option4).jpg
+2:A:What is the name of the place below?:Question4.jpg:Sultan Qaboos Grand Mosque:Al-Masjid an-Nabawi:Al-Kadhimiya Mosque:Sultan Salahuddin Abdul Aziz Mosque
+1:A:Which is true about Maldives?:Maldives is the lowest and flattest nation in the world.:Alcohol is strictly forbidden anywhere in Maldives.:Literacy in Maldivian adults is 86 percent.:The island is formed by a Muslim prophet.
+3:D:The following are presidents of Maldives except..:maldives_president1.jpg:maldives_president2.jpg:maldives_president3.jpg:maldives_president4.jpg
+2:B:What is the name of this Maldives tourist spot?:male-friday-mosque.jpg:Gurdwara Muhamaad:Male Friday Mosque:Ari Atoll:Fort deFoom
+2:B:What is the name of this Maldivian delicacy?:garudhiya.jpg:Garudiya:Garudhiya:Karudhiya:Garudiyah
+1:C:Which one is NOT a place in Latvia?:Riga:Gauja Natinoal Park:Gua Niah:Jurmala
+2:D:This is Latgale. What is INCORRECT about this place?:Latgale.png:Stunning Arts:Handicrafts:Fascinating Traditions:Battle Royale
+3:C:Cesis is a town with an intriguing mixture of hipness and history. Which one is Cesis?:latvia1.png:latvia2.png:latvia3.png:latvia4.png
+1:D:Which one is the capital of Latvia?:Jurmala:Gauja Natinoal Park:Estonia:Riga

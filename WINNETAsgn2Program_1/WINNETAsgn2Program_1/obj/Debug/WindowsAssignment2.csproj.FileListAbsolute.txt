@@ -1,0 +1,13 @@
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\bin\Debug\Week12WindowsApplication.exe.config
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\bin\Debug\Week12WindowsApplication.exe
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\bin\Debug\Week12WindowsApplication.pdb
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\WindowsAssignment2.csprojAssemblyReference.cache
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\Week12WindowsApplication.Properties.Resources.resources
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\WindowsAssignment2.csproj.GenerateResource.cache
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\WindowsAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\Week12WindowsApplication.exe
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\Week12WindowsApplication.pdb
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\WindowsAssignment2.Result.resources
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\WindowsAssignment2.Test.resources
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\WindowsAssignment2.Winner.resources
+C:\Users\royling\source\repos\WindowsAssignment2\WindowsAssignment2\obj\Debug\WindowsAssignment2.Welcome.resources

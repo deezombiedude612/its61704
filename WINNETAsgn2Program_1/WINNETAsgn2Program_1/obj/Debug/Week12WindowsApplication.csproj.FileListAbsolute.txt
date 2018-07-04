@@ -1,0 +1,9 @@
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\bin\Debug\Week12WindowsApplication.exe.config
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\bin\Debug\Week12WindowsApplication.exe
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\bin\Debug\Week12WindowsApplication.pdb
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\obj\Debug\Week12WindowsApplication.csprojAssemblyReference.cache
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\obj\Debug\Week12WindowsApplication.Properties.Resources.resources
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\obj\Debug\Week12WindowsApplication.csproj.GenerateResource.cache
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\obj\Debug\Week12WindowsApplication.csproj.CoreCompileInputs.cache
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\obj\Debug\Week12WindowsApplication.exe
+c:\users\royling\source\repos\Week12WindowsApplication\Week12WindowsApplication\obj\Debug\Week12WindowsApplication.pdb

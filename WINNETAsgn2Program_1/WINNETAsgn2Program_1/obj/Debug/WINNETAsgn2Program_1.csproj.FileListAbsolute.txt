@@ -1,0 +1,13 @@
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\bin\Debug\Week12WindowsApplication.exe.config
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\bin\Debug\Week12WindowsApplication.exe
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\bin\Debug\Week12WindowsApplication.pdb
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\WINNETAsgn2Program_1.csprojAssemblyReference.cache
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\WINNETAsgn2Program_1.Test.resources
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\WINNETAsgn2Program_1.Welcome.resources
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\Week12WindowsApplication.Properties.Resources.resources
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\WINNETAsgn2Program_1.Result.resources
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\WINNETAsgn2Program_1.Winner.resources
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\WINNETAsgn2Program_1.csproj.GenerateResource.cache
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\WINNETAsgn2Program_1.csproj.CoreCompileInputs.cache
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\Week12WindowsApplication.exe
+C:\Users\royling\source\repos\WINNETAsgn2Program_1\WINNETAsgn2Program_1\obj\Debug\Week12WindowsApplication.pdb

@@ -1,0 +1,6 @@
+
+Adeel:LatviaFlag.png:A:A:A:D:A:B:C:C:D:A:A:B:C:D:A:C:D:B:D:D:
+Henry:MaldivesFlag.png:B:B:D:B:D:D:B:D:C:D:C:B:C:D:A:A:D:B:C:D:
+Jordan:MozambiqueFlag.png:D:A:C:D:D:D:C:C:D:D:C:C:D:D:C:C:C:D:C:D:
+Monte:OmanFlag.png:D:C:D:B:C:D:C:D:D:D:C:C:C:C:D:D:C:D:C:B:
+Roy:Republic of KoreaFlag.png:D:A:C:D:D:B:C:D:D:D:D:C:D:D:C:D:D:D:C:D:
