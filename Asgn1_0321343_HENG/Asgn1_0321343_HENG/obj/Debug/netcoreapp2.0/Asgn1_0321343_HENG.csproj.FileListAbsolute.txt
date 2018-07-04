@@ -1,0 +1,11 @@
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\bin\Debug\netcoreapp2.0\Asgn1_0321343_HENG.deps.json
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\bin\Debug\netcoreapp2.0\Asgn1_0321343_HENG.runtimeconfig.json
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\bin\Debug\netcoreapp2.0\Asgn1_0321343_HENG.runtimeconfig.dev.json
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\bin\Debug\netcoreapp2.0\Asgn1_0321343_HENG.dll
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\bin\Debug\netcoreapp2.0\Asgn1_0321343_HENG.pdb
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\obj\Debug\netcoreapp2.0\Asgn1_0321343_HENG.csprojResolveAssemblyReference.cache
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\obj\Debug\netcoreapp2.0\Asgn1_0321343_HENG.csproj.CoreCompileInputs.cache
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\obj\Debug\netcoreapp2.0\Asgn1_0321343_HENG.AssemblyInfoInputs.cache
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\obj\Debug\netcoreapp2.0\Asgn1_0321343_HENG.AssemblyInfo.cs
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\obj\Debug\netcoreapp2.0\Asgn1_0321343_HENG.dll
+C:\Users\deezombiedude612\source\repos\Asgn1_0321343_HENG\Asgn1_0321343_HENG\obj\Debug\netcoreapp2.0\Asgn1_0321343_HENG.pdb
